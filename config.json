@@ -72,6 +72,35 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "dom-data-dashboard",
+      "title": "DOM Data Dashboard",
+      "description": "Use JavaScript DOM manipulation and events to render and filter student data in a browser dashboard.",
+      "path": "assignments/dom-data-dashboard",
+      "dueDate": "2026-05-27",
+      "attachments": [
+        {
+          "name": "Assignment Guide",
+          "file": "README.md",
+          "type": "markdown"
+        },
+        {
+          "name": "Starter HTML",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "Starter Code",
+          "file": "starter-code.js",
+          "type": "javascript"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.json",
+          "type": "json"
+        }
+      ]
     }
   ]
 }
